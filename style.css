@@ -6,6 +6,9 @@
 
 body {
     font-family: 'Macondo', cursive;
+    background-image: url("https://images.unsplash.com/photo-1601372085632-07f7f31bb18a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80");
+    background-repeat: no-repeat;
+    background-size: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -48,6 +51,7 @@ body {
 
 .panel.active h3 {
     opacity: 1;
+    transition: opacity 0.3s ease-in 0.4s;
 }
 
 @media(max-width: 480px) {
