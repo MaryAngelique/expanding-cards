@@ -1,4 +1,5 @@
 # Expanding Cards
 
 ### Project Demo
-![Demo](https://user-images.githubusercontent.com/51681480/167446189-e0d1ed60-9243-4a15-a452-415539fd04dd.mp4)
+https://user-images.githubusercontent.com/51681480/167447464-1da0eaf5-2899-4c9f-b9cd-72b6a56e5ab2.mp4
+
