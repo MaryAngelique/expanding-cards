@@ -45,6 +45,6 @@ https://user-images.githubusercontent.com/51681480/167447464-1da0eaf5-2899-4c9f-
 ## Author
 
 - LinkedIn - [Mary Angelique A. Abacajan](https://github.com/MaryAngelique/)
-- Github - [@MaryAngelique](https://www.github.com/mark-escosura)
+- Github - [@MaryAngelique](https://www.github.com/MaryAngelique)
 
 
